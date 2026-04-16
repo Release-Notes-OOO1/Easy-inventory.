@@ -1,1 +1,1 @@
-  # Easy-inventory.
+   # Easy-inventory.
